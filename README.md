@@ -28,8 +28,8 @@ A collection of real-time computer vision projects focused on human pose estimat
 ## Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/realtime-pose-estimation.git
-cd realtime-pose-estimation
+git clone https://github.com/zaintariq967/RealTime-Pose-Estimation-Using-Computer-Vision.git
+cd RealTime-Pose-Estimation-Using-Computer-Vision
 pip install opencv-python mediapipe numpy
 ```
 
